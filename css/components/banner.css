@@ -1,0 +1,19 @@
+.banner {
+	background-image: linear-gradient( -225deg, rgb(192, 222, 255) 0%, rgb(255, 229, 241) 50%);
+	color: rgb(255, 153, 215);
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size:50px;
+	font-weight: bold;
+}
+
+.banner h2 {
+	font-size:30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+}
